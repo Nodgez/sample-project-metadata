@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "your_image_url",
+    "name": "InvaderX Collection",
+    "description": "Learning IMX zkevm with an Invaders style game",
+    "image": "https://Nodgez/github.io/sample-project-metadata/images/INX_COLLECTION.png",
     "external_link": "https://immutable.com" 
 }
